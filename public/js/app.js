@@ -1,0 +1,1 @@
+angular.module('passportLocalApp', ['ngRoute', 'appRoutes', 'LoginCtrl', 'HomeCtrl', 'UserService']);
