@@ -19,8 +19,6 @@ Install UI libraries
 bower install
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Deployment
 
 Use below command to start application, and use this [link](http://localhost:3000) 
